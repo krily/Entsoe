@@ -1,6 +1,5 @@
 # Entsoe
-
-Erste Versuche mit Entsoe
+First Tests with Entsoe (entsoe-py, requests)
 
 * man braucht: 'pip install entsoe-py'
 siehe https://github.com/EnergieID/entsoe-py
