@@ -2,7 +2,7 @@
 
 Erste Versuche mit Entsoe
 
-* man braucht: pip install entsoe-py
+* man braucht: 'pip install entsoe-py'
 siehe https://github.com/EnergieID/entsoe-py
 
 * Intermediate / Final, siehe Dokumentation unter 4.6.7
